@@ -21,14 +21,15 @@ ViewAllData URL (PUT)
 http://localhost:8088/api/{id}
 
 Ex:
-INPUT:
+###### INPUT
       PUT : http://localhost:8088/api/5
 
       {
           "order": "2"
       }
 
-OUTPUT:
+###### OUTPUT
+
       {
           "id": 5,
           "name": "Americano",
