@@ -28,7 +28,8 @@ Ex:
           "order": "2"
       }
       
-      
+###### GET
+
       ![image](https://github.com/hexhad/CoffeeAPI/imgs/blob/master/get.png?raw=true)
 
 ###### OUTPUT
@@ -42,7 +43,8 @@ Ex:
           "img": "https://images.hdqwalls.com/download/morning-coffee-cg-240x320.jpg"
       }
       
-      
+###### PUT
+
        ![image](https://github.com/hexhad/CoffeeAPI/imgs/blob/master/post.png?raw=true)
       
 # Assumption
