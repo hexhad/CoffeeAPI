@@ -6,7 +6,8 @@ http://localhost:8088/api
 Clone this code and Open it With a Proper IDE
 
 ## Step 2
-RUN the server
+1. Import database to MySql [/Database/Coffee.sql]
+2. RUN the server
 
 ## Step 3
 Open Postman
@@ -29,6 +30,9 @@ Ex:
           "order": "2"
       }
       
+###### GET
+
+![](imgs/get.png)
 
 ###### OUTPUT
 
@@ -40,6 +44,10 @@ Ex:
           "price": "400",
           "img": "https://images.hdqwalls.com/download/morning-coffee-cg-240x320.jpg"
       }
+      
+###### PUT
+
+![](imgs/put.png)
       
       
 # Assumptions
