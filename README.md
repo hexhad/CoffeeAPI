@@ -1,19 +1,19 @@
 # CoffeeAPI
 Daddy's Coffee
 
-# Step01
+## Step 1
 Clone this code and Open it With a Proper IDE
 
-# Step02
+## Step 2
 RUN the server
 
-# Step03
+## Step 3
 Open Postman
 ViewAllData URL (GET)
 http://localhost:8088/api
 
 
-# Step04
+## Step 4
 Open Postman
 ViewAllData URL (PUT)
 (this will update only "Order" Value)
@@ -28,9 +28,6 @@ Ex:
           "order": "2"
       }
       
-###### GET
-
-      ![image](https://github.com/hexhad/CoffeeAPI/imgs/blob/master/get.png?raw=true)
 
 ###### OUTPUT
 
@@ -43,9 +40,6 @@ Ex:
           "img": "https://images.hdqwalls.com/download/morning-coffee-cg-240x320.jpg"
       }
       
-###### PUT
-
-       ![image](https://github.com/hexhad/CoffeeAPI/imgs/blob/master/post.png?raw=true)
       
 # Assumption
 1. only one user uses this app and api
