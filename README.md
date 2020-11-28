@@ -27,6 +27,9 @@ Ex:
       {
           "order": "2"
       }
+      
+      
+      ![image](https://github.com/hexhad/CoffeeAPI/imgs/blob/master/get.png?raw=true)
 
 ###### OUTPUT
 
@@ -38,6 +41,9 @@ Ex:
           "price": "400",
           "img": "https://images.hdqwalls.com/download/morning-coffee-cg-240x320.jpg"
       }
+      
+      
+       ![image](https://github.com/hexhad/CoffeeAPI/imgs/blob/master/post.png?raw=true)
       
 # Assumption
 1. only one user uses this app and api
