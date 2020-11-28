@@ -43,5 +43,6 @@ Ex:
       
 # Assumption
 1. only one user uses this app and api
-2. useing only one table and there is a column for orders
+2. user already logged in
+3. using only one table and there is a column for orders
       
